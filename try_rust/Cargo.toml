@@ -1,0 +1,11 @@
+[package]
+name = "try_rust"
+version = "0.1.0"
+authors = ["Artur Basak <artur.basak@instinctools.ru>"]
+
+[dependencies]
+iron = "*"
+postgres = "0.9"
+router = "*"
+rustc-serialize = "0.3"
+url = "*"
